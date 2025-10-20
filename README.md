@@ -1,4 +1,4 @@
-# 🎓 WordPress Plugin Development – Video Popup Projekt (10-trins forløb)
+# 🎓 WordPress Plugin Development – Video Popup Projekt (9-trins forløb)
 
 Et komplet undervisningsforløb, hvor du lærer at bygge et **WordPress-plugin** fra bunden.  
 Du henter et færdigt plugin fra GitHub, duplikerer det, og udvider det trin for trin med tekst, video, styling, skrifttyper, ikoner og JavaScript.
